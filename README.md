@@ -46,7 +46,7 @@ The landing page is where each referral link should redirect. This page should b
 
 Choose one of the following technical tracks to build the functionality described in the Functional spec that best suits your skill set:
 
--	Back-end track: build a REST API and include a minimal front-end (e.g. a browsable API)
+-	Back-end track: build a REST API and include documentation on how to use. 
 -	Front-end track: build your project as a purely client-side app
 -	Full Stack: blend the former approaches, but be sure to demonstrate your competence across the stack
 
